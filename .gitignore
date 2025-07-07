@@ -1,0 +1,20 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.a
+*.so
+
+# Build directory
+bin/
+
+# OS files
+.DS_Store
+
+# Go stuff
+vendor/
+*.test
+coverage.out
+
+# VS Code
+.vscode/
